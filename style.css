@@ -1,0 +1,15 @@
+.demo{
+    border: 1px solid red;
+    height: 100px;
+    width: 100px;
+    /*要定位才能设置位置值*/
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+body {
+    /*border: 1px solid red;*/
+    margin: 0;
+    height: 100vh;
+    box-sizing: border-box;
+}
